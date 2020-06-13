@@ -16,8 +16,8 @@
    
   ],
   "free":[
-    {"id":0, "file":0, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"103.73.56.136:4145","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"180.211.243.222:4145","active":"true","signal":"b"},
+    {"id":0, "file":0, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"103.73.56.136","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"180.211.243.222","active":"true","signal":"b"},
     {"id":2, "file":1, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"180.210.222.129:1080","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Dhaka","country":"bangladesh","image":"bangladesh","ip":"202.40.186.26:4145","active":"true","signal":"c"},
     {"id":4, "file":1, "city":"Dhaka","country":"bangladeshs","image":"bangladesh","ip":"103.16.24.38:4145","active":"true","signal":"c"},
